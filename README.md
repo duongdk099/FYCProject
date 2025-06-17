@@ -1,9 +1,3 @@
-Absolument ! Excellent choix. C'est un projet ambitieux mais qui vous apportera une valeur immense sur votre CV.
-
-Voici un plan d'action détaillé, en français, pour que vous et votre équipe puissiez démarrer sur des bases solides. Partagez ceci avec vos coéquipiers.
-
----
-
 ### **Plan de Préparation pour le Projet FYC : "Observable & Framework Web from Scratch"**
 
 **Objectif :** Ne pas se lancer dans le code tête baissée. La préparation est 90% du succès pour un projet de cette envergure.
